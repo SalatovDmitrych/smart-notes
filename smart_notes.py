@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QHBoxLayout, QVB
     QListWidget, QInputDialog, QMessageBox
 import json
 from datetime import datetime
-a =0
+
 
 class App(QApplication):
     def __init__(self):
