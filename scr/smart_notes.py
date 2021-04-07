@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 
 
+
 class App(QApplication):
     def __init__(self):
         super().__init__(["Умные заметки"])
